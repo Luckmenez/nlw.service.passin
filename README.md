@@ -86,3 +86,5 @@ CREATE UNIQUE INDEX "check_ins_attendeeId_key" ON "check_ins"("attendeeId");
 <!-- Security scan triggered at 2026-09-05 07:52:35 -->
 
 <!-- Security scan triggered at 2026-09-08 02:10:48 -->
+
+<!-- Security scan triggered at 2026-10-07 11:33:10 -->
